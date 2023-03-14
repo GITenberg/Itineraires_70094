@@ -1,6 +1,9 @@
 _repo: Itineraires_70094
 _version: 0.1.0
 alternative_title: Itinéraire
+covers:
+- cover_type: archival
+  image_path: 70094-h/images/cover.jpg
 creator:
   author:
     agent_name: Hémon, Louis
@@ -13,6 +16,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Louis_H%C3%A9mon
     - https://en.wikipedia.org/wiki/Louis_H%C3%A9mon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70094#Itineraires
 gutenberg_issued: '2023-02-21'
 identifiers:
   gutenberg: '70094'
